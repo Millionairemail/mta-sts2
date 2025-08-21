@@ -1,1 +1,2 @@
-# mta-sts2
+# mta-sts
+MTA-STS policy for billionaires.me
